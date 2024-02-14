@@ -1,0 +1,11 @@
+step 1: create / register to the gitlab 
+ step 2: create new project/ repository (where you can store your application)/ url of the repository/branch
+ step 3: customer.py ->  push to the repostory
+ step 4: cd project directory 
+ step 5: git init / git, git is not recognized , install the git macos,windows..
+ step 6: installation done 
+ step 7: git init
+ step 8: git add filename  / git add .
+ step 9: git commit -m "hey this is my first commit"
+ step 10: git status
+ step 11: git push -u "url"  master
